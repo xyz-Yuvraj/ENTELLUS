@@ -112,7 +112,7 @@ export default function TechnologyPage() {
                         <div className="bg-emerald-900/40 p-8 rounded-3xl border border-emerald-800 aspect-video flex items-center justify-center">
                             <div className="text-center">
                                 <Globe size={80} className="mx-auto mb-6 text-primary animate-pulse" />
-                                <p className="text-emerald-100/80 italic">"Advancing India's Material Science Frontier"</p>
+                                <p className="text-emerald-100/80 italic">&quot;Advancing India&apos;s Material Science Frontier&quot;</p>
                             </div>
                         </div>
                     </div>
@@ -126,7 +126,7 @@ export default function TechnologyPage() {
                     <div className="max-w-4xl text-center space-y-6">
                         <p className="text-lg text-emerald-900/60 dark:text-emerald-400">
                             Rare earth processing is historically energy-intensive and chemically challenging.
-                            At Entellus, we're pioneering a cleaner way. Our facilities implement
+                            At Entellus, we&apos;re pioneering a cleaner way. Our facilities implement
                             closed-loop water recycling, solar-powered beneficiation, and zero-liquid-discharge
                             waste management protocols.
                         </p>

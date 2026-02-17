@@ -56,7 +56,7 @@ export default function CareersPage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                         {[
                             { icon: <Rocket />, title: "Innovation First", desc: "Work on cutting-edge separation technologies and material science breakthroughs." },
-                            { icon: <Heart />, title: "Impactful Work", desc: "Contribute directly to India's energy transition and strategic material sovereignty." },
+                            { icon: <Heart />, title: "Impactful Work", desc: "Contribute directly to India&apos;s energy transition and strategic material sovereignty." },
                             { icon: <GraduationCap />, title: "Growth & Learning", desc: "Continuous professional development and mentorship from industry veterans." },
                             { icon: <Users />, title: "Collaborative Culture", desc: "A diverse team of engineers and scientists solving complex problems together." }
                         ].map((item, i) => (

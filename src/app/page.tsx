@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Zap, Shield, Recycle, Cpu, Globe, Rocket, Factory } from "lucide-react";
+import { ArrowRight, Zap, Shield, Recycle, Cpu, Globe, Rocket } from "lucide-react";
 
 export default function Home() {
   return (
@@ -173,7 +173,7 @@ export default function Home() {
       < section className="py-24 bg-white dark:bg-emerald-900/10" >
         <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="bg-emerald-50/50 dark:bg-emerald-900/20 rounded-3xl p-12 border border-emerald-100 dark:border-emerald-800 flex flex-col items-center text-center">
-            <h2 className="text-3xl font-display font-bold mb-6 text-emerald-950 dark:text-white">Invest in India's Innovation Economy</h2>
+            <h2 className="text-3xl font-display font-bold mb-6 text-emerald-950 dark:text-white">Invest in India&apos;s Innovation Economy</h2>
             <p className="text-lg text-emerald-900/70 dark:text-emerald-100/70 max-w-2xl mb-10">
               Backed by leading institutional investors and strategic government partnerships,
               Entellus is scaling production to meet global demand.

@@ -16,7 +16,7 @@ const outfit = Outfit({
 
 export const metadata: Metadata = {
   title: "Entellus Industries | Advanced Rare Earth Materials",
-  description: "Building India's Rare Earth Future. Advanced materials manufacturing for EVs, renewable energy, and aerospace.",
+  description: "Building India&apos;s Rare Earth Future. Advanced materials manufacturing for EVs, renewable energy, and aerospace.",
 };
 
 export default function RootLayout({
